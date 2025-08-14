@@ -1,4 +1,4 @@
-# 📢 Caleb Notify – ESX + ox_lib Notification Script
+# 📢 Caleb Notify
 
 **Author:** Lil Caleb  
 **Version:** 1.1.0  
@@ -28,4 +28,5 @@ A lightweight and versatile notification system for **ESX servers** using **ox_l
 
 ### Server-side trigger
 ```lua
+
 TriggerEvent('caleb-notify:server', playerId, 'success', 'Title', 'Message')
