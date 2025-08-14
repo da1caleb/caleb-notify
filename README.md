@@ -1,6 +1,6 @@
 # 📢 Caleb Notify
 
-**Author:** Lil Caleb  
+**Author:** da1caleb 
 **Version:** 1.1.0  
 **License:** Free to use  
 
@@ -30,3 +30,4 @@ A lightweight and versatile notification system for **ESX servers** using **ox_l
 ```lua
 
 TriggerEvent('caleb-notify:server', playerId, 'success', 'Title', 'Message')
+
